@@ -1,6 +1,6 @@
 # Economic Surveillance Bot
 
-The Economic Surveillance Bot is an innovative solution designed to provide cost-effective economic surveillance. Utilizing an Arduino controller programmed in C, this bot responds to hand gestures, enabling precise navigation. Compared to market alternatives, this solution achieves a remarkable 20% cost reduction.
+The Economic Surveillance Bot is an innovative solution designed to provide cost-effective economic surveillance. Utilizing an microcontroller programmed in C, this bot responds to hand gestures, enabling precise navigation. Compared to market alternatives, this solution achieves a remarkable 20% cost reduction.
 
 ## Usage Instructions
 
